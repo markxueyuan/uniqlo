@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.opera/operadriver:1.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opera/operadriver/1.5/operadriver-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
